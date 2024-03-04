@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Tangerine&display=swap");
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #c0c0e7;
+  color: rgb(69, 150, 95);
+  flex-direction: column;
+}
+
+.main-header {
+  font-family: "Tangerine", cursive;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  align-items: left;
+}
+
+.create-form label {
+  color: whitesmoke !important;
+  font-family: "Tangerine", sans-serif;
+  font-size: 16px !important;
+}
+
+.navigation {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  height: 100vh;
+  background-color: #c0c0e7;
+  color: rgb(69, 150, 95);
+  flex-direction: column;
+}
